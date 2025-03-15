@@ -4,6 +4,7 @@ import 'package:advanced_flutter_projects/presentation/Main/main_view.dart';
 import 'package:advanced_flutter_projects/presentation/OnBoarding/on_boarding.dart';
 import 'package:advanced_flutter_projects/presentation/Register/register.dart';
 import 'package:advanced_flutter_projects/presentation/Splash/splash.dart';
+
 import 'package:advanced_flutter_projects/presentation/Stote%20Details/store.dart';
 import 'package:advanced_flutter_projects/presentation/resources/strings_manager.dart';
 import 'package:flutter/material.dart';
